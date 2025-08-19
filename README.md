@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jack
 - 👀 I’m interested in the C programming language
-- 🌱 I’m currently learning how to implement parallel processing, and how to make my code as portable as possible 
+- 🌱 I’m currently learning graphics programming and how to implement vulkan and webgpu backends 
 - 📫 How to reach me: jack.e.tobin@outlook.com
 
-I love anything that has to do with C, but I'm still very much a newbie as far as writing code goes. I'm also learning how to use git, because I'd like to be a bit more active, a bit more consistently, than I am right now.
+I love anything that has to do with C.
 If you've got any questions about anything I've written, do feel free to reach out any time!
 
 <!---
