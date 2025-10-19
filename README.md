@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Jack
-- 👀 I’m interested in the C programming language
-- 🌱 I’m currently learning graphics programming and how to implement vulkan and webgpu backends 
-- 📫 How to reach me: jack.e.tobin@outlook.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackETobin)](https://github.com/anuraghazra/github-readme-stats)
 
-I love anything that has to do with C.
-If you've got any questions about anything I've written, do feel free to reach out any time!
+I like programming in C.
+Feel free to reach out: jack.e.tobin@outlook.com
 
 <!---
 JackETobin/JackETobin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
